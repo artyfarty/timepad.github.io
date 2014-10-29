@@ -309,7 +309,7 @@
 		.search-results__loader-image{
 			display:inline-block;
 			text-align:center;
-			background:url(http://insta.helloworld.by/kb/images/sprite.png) no-repeat 0 -200px;
+			background:url(http://timepad.github.io/helpjuice/images/sprite.png) no-repeat 0 -200px;
 			width:96px;
 			height:96px;
 			z-index:30;
@@ -505,11 +505,14 @@
 			padding:0;
 		}
 
-		.search-results__item-txt{
+		.search-results__item-txt, .answer {
 			font-size:15px;
 			line-height:20px;
 			font-weight:400;
 			color:#000;
+		}
+		
+		.search-results__item-txt, .answer p {
 			margin:0 0 12px 0;
 		}
 
