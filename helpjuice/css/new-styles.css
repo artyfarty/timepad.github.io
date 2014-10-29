@@ -512,7 +512,7 @@
 			color:#000;
 		}
 		
-		.search-results__item-txt, .answer p {
+		.search-results__item-txt, .answer p, .answer ul, .answer ol {
 			margin:0 0 12px 0;
 		}
 
