@@ -309,9 +309,9 @@
 		.search-results__loader-image{
 			display:inline-block;
 			text-align:center;
-			background:url(http://timepad.github.io/helpjuice/images/sprite.png) no-repeat 0 -200px;
-			width:96px;
-			height:96px;
+			background:url(http://timepad.github.io/helpjuice/images/loader.gif);
+			width:100px;
+			height:100px;
 			z-index:30;
 		}
 
