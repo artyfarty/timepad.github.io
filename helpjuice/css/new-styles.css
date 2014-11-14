@@ -849,9 +849,6 @@
 .search-results__item-small-txt-link{
 	display: block
 }
-.search-results__item-small-txt-link:hover{
-	text-decoration:underline
-}
 
 .search-results__item-small .question-breadcrumbs{
 	margin-bottom:13px;
